@@ -8,29 +8,25 @@
 A relationship between Bitcoin (BTC) price and the S&P500 market indexes in a 5 year span.
 
 ## Details
-What is the role of Bitcoin in our economy. Below are three potential roles:
-
-It will be interesting to see any correlations and covariances.  
 
 
-What is the role of Bitcoin in our economy. Below are three potential roles:
+A relationship between Bitcoin (BTC) price and the S&P500 market indexes in a 5 year span.
 
 
 
 
 ## Questions to ask are
 
-What is the role of Bitcoin in our economy? 
-
-
 If Bitcoin has been playing a safe-heaven role in the investment world, we should expect to see a negative relationship between stock and Bitcoin prices.
 
-Another possible role is for Bitcoin to follow the same trend than financial markets. 
+Below are three potential roles:
 
-That is, if stock prices are rallying, is this positivism contagious, and therefore, also visible in Bitcoin prices
+Is Bitcoin following a trend  different than financial markets. 
 
+If stock prices are rallying, is this also visible in Bitcoin prices? 
 
 A third potential outcome from our analysis may be that Bitcoin prices do not show a relationship with the stock market at all.
+
 
 ## Technical Requirements
 

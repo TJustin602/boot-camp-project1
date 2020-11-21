@@ -5,25 +5,32 @@
 ## Project Summary
 
 
-
-
-A relationship between Bitcoin (BTC) price and the major US stock market indexes: S&P500, Dow Jones Industrial Average, and Nasdaq composite, for the year of covid: 2020.
+A relationship between Bitcoin (BTC) price and the S&P500 market indexes in a 5 year span.
 
 ## Details
-There is a theory that the price of bitcoin should have increased due to the pandemic, but instead it has shown that it is tied to how well other financial markets are doing.  There is also some trends where bitcoin has deviated from this as well. 
+What is the role of Bitcoin in our economy. Below are three potential roles:
 
 It will be interesting to see any correlations and covariances.  
 
 
-I shall look at stock data and trends with data trends of BTC prices
+What is the role of Bitcoin in our economy. Below are three potential roles:
+
+
+
 
 ## Questions to ask are
 
-- When the stock/financial market is high, is bitcoin price more?
-- When does bitcoin start to fall in price compared to the other financial markets
-    - How does the price of physical gold compare to bitcoin pricing and other financial markets 
+What is the role of Bitcoin in our economy? 
 
-If and where there is a difference, I shall try and graph why there is a difference between them.  
+
+If Bitcoin has been playing a safe-heaven role in the investment world, we should expect to see a negative relationship between stock and Bitcoin prices.
+
+Another possible role is for Bitcoin to follow the same trend than financial markets. 
+
+That is, if stock prices are rallying, is this positivism contagious, and therefore, also visible in Bitcoin prices
+
+
+A third potential outcome from our analysis may be that Bitcoin prices do not show a relationship with the stock market at all.
 
 ## Technical Requirements
 
@@ -51,9 +58,11 @@ The technical requirements for Project 1 are as follows.
  Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions.
 
 
- Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
+Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
 
  Reference:
+ 
+ - [results ](results.md)
 
  - [presentation guidelines ](guidelines/PresentationGuidelines.md)
  - [presentation requirements](guidelines/PresentationRequirements.md)
